@@ -1,0 +1,6 @@
+flask
+spacy
+transformers
+torch
+sentence-transformers
+langdetect
